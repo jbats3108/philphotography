@@ -33,6 +33,15 @@ html {
 }
 
 @media screen and (max-width: 1000px) {
+
+    html {
+        background: url('./small_backround.jpg') no-repeat fixed center;
+        background-size: cover;
+        background-color: gray;
+        font-family: 'Bodoni Moda', serif;
+    }
+
+
     .text {
         text-align: center;
         color: white;
