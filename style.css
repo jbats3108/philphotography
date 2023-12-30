@@ -39,6 +39,7 @@ html {
         background-size: cover;
         background-color: gray;
         font-family: 'Bodoni Moda', serif;
+        overflow: hidden;
     }
 
 
